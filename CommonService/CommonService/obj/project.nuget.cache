@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0ZAg09mhHxO5m8wX9ruz1jIEojNvwHNXbpVuHwCtsroI3HhuKf2vfnMAYag/RVG7TYrzr4eGWie0YTaZkrymw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\CommonService\\CommonService\\CommonService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hied\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\Hied\\.nuget\\packages\\microsoft.openapi\\1.6.22\\microsoft.openapi.1.6.22.nupkg.sha512",
+    "C:\\Users\\Hied\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
+    "C:\\Users\\Hied\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
+    "C:\\Users\\Hied\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
