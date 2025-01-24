@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "YSHmncNV7A0OBPm0r3pfKf7+LXK6+1sSHKEcEYOEC5PHCFUJ/xejJCLSboyV1vHEGH6+CDFcOpfYx1+yxvH9vw==",
+  "dgSpecHash": "adJONuIMNL5kxJefyBmaMezJ5Hnxo6c70mmD5UIkIrg2meqkLt0t5Ipz9OpzQz3VzRugFKs+6lgo0ikYboyUBw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,10 @@
     "C:\\Users\\Hied\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Hied\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\7.2.0\\swashbuckle.aspnetcore.swagger.7.2.0.nupkg.sha512",
     "C:\\Users\\Hied\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\7.2.0\\swashbuckle.aspnetcore.swaggergen.7.2.0.nupkg.sha512",
-    "C:\\Users\\Hied\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512"
+    "C:\\Users\\Hied\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\7.2.0\\swashbuckle.aspnetcore.swaggerui.7.2.0.nupkg.sha512",
+    "C:\\Users\\Hied\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.1\\system.configuration.configurationmanager.9.0.1.nupkg.sha512",
+    "C:\\Users\\Hied\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.1\\system.diagnostics.eventlog.9.0.1.nupkg.sha512",
+    "C:\\Users\\Hied\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.1\\system.security.cryptography.protecteddata.9.0.1.nupkg.sha512"
   ],
   "logs": []
 }

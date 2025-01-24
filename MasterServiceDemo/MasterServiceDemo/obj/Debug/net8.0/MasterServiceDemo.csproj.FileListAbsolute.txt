@@ -48,3 +48,6 @@ C:\Users\Hied\Desktop\ProjectDevelopment\GRPC\MasterServiceDemo\MasterServiceDem
 C:\Users\Hied\Desktop\ProjectDevelopment\GRPC\MasterServiceDemo\MasterServiceDemo\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\Hied\Desktop\ProjectDevelopment\GRPC\MasterServiceDemo\MasterServiceDemo\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Hied\Desktop\ProjectDevelopment\GRPC\MasterServiceDemo\MasterServiceDemo\obj\Debug\net8.0\MasterServiceDemo.sourcelink.json
+C:\Users\Hied\Desktop\ProjectDevelopment\GRPC\MasterServiceDemo\MasterServiceDemo\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Hied\Desktop\ProjectDevelopment\GRPC\MasterServiceDemo\MasterServiceDemo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Hied\Desktop\ProjectDevelopment\GRPC\MasterServiceDemo\MasterServiceDemo\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
