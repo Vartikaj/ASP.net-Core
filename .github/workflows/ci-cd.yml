@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps: 
       - name: Check out code
-        uses : actions/checkout@v2
+        uses : actions/checkout@v3
 
       - name : Setup .Net 8
         uses : actions/setup-dotnet@v3
@@ -21,8 +21,8 @@ jobs:
         run: dotnet Restore
 
       - name: Build app
-        run: dotnet build -c Release --no-restore
-        
+        run: dotnet build MasterServiceDemo -c Release --no-restore
+
 
 
 
