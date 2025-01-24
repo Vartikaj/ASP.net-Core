@@ -1,4 +1,6 @@
 using CommonService.Utility;
+using MasterServiceDemo.Utility;
+using System.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,6 +13,10 @@ builder.Services.AddSwaggerGen();
 
 //Add Swagger Custom Documentation with Authorize the header functionality
 builder.Services.AddSwaggerDocumentation();
+
+// add the utility servicetoscoped folder 
+ServiceToScope oServiceToScope = new ServiceToScope(builder.Configuration);
+oServiceToScope.AddToScope(builder.Services);
 
 var app = builder.Build();
 
