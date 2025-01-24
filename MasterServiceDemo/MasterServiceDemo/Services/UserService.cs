@@ -12,9 +12,14 @@ namespace MasterServiceDemo.Services
             this._dbgateway = new DbGateway(_connection);
         }
 
-        public Task<Response<object>> GetAllData()
+        public async Task<Response<object>> GetAllData()
         {
-            throw new NotImplementedException();
+            Response<object> response = new Response<object>();
+
+            response.Message = string.Empty;
+
+            return response;
+            
         }
     }
 }
