@@ -61,10 +61,6 @@
               "target": "Package",
               "version": "[9.0.1, )"
             },
-            "Microsoft.Extensions.DependencyInjection.Abstractions": {
-              "target": "Package",
-              "version": "[9.0.1, )"
-            },
             "MySql.Data": {
               "target": "Package",
               "version": "[9.2.0, )"
