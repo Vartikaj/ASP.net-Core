@@ -21,11 +21,7 @@ jobs:
         run: dotnet Restore
 
       - name: Build app
-        run: |
-          for sln in $(find . -name "*.sln"); do
-            echo "Building solution: $sln"
-            dotnet build "$sln" -c Release --no-restore
-          done
+        run: dotnet build MasterServiceDemo -c Release --no-restore
 
 
 
