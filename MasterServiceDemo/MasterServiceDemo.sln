@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterServiceDemo", "MasterServiceDemo\MasterServiceDemo.csproj", "{F8B36523-302E-434D-9E6C-B180E8DCC921}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterServiceDemoTest", "MasterServiceDemoTest\MasterServiceDemoTest.csproj", "{F7F5F2CA-DBF8-4A52-AF25-BA61914F58B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F8B36523-302E-434D-9E6C-B180E8DCC921}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8B36523-302E-434D-9E6C-B180E8DCC921}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8B36523-302E-434D-9E6C-B180E8DCC921}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F5F2CA-DBF8-4A52-AF25-BA61914F58B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F5F2CA-DBF8-4A52-AF25-BA61914F58B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F5F2CA-DBF8-4A52-AF25-BA61914F58B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F5F2CA-DBF8-4A52-AF25-BA61914F58B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
