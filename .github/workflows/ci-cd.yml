@@ -23,6 +23,9 @@ jobs:
       - name: Add Microsoft.Extensions.DependencyInjection
         run: dotnet add MasterServiceDemo/MasterServiceDemo/MasterServiceDemo.csproj package Microsoft.Extensions.DependencyInjection --version 9.0.1
 
+      - name: Add Microsoft.Extensions.DependencyInjection.Abstractions 
+        run: dotnet add MasterServiceDemo/MasterServiceDemo/MasterServiceDemo.csproj package Microsoft.Extensions.DependencyInjection.Abstractions  --version 9.0.1
+
       - name: Build app
         run: dotnet build MasterServiceDemo/MasterServiceDemo/MasterServiceDemo.csproj -c Release --no-restore
 

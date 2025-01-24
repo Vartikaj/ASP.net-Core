@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj": {}
+    "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\masterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj": {
+    "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\masterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\masterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
         "projectName": "MasterServiceDemo",
-        "projectPath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
+        "projectPath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\masterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
         "packagesPath": "C:\\Users\\Hied\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\obj\\",
+        "outputPath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\masterServiceDemo\\MasterServiceDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hied\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -47,7 +47,11 @@
           "dependencies": {
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[9.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
