@@ -12,10 +12,10 @@ jobs:
       - name: Check out code
         uses : actions/checkout@v3
 
-      - name : Setup .Net 8
+      - name : Setup .Net 9
         uses : actions/setup-dotnet@v3
         with : 
-          dotnet-version: '8.0.*'
+          dotnet-version: '9.0.*'
 
       - name: Restore dependencies
         run: dotnet Restore
