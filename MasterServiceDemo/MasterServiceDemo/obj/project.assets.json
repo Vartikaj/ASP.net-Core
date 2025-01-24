@@ -691,11 +691,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\masterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
       "projectName": "MasterServiceDemo",
-      "projectPath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
+      "projectPath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\masterServiceDemo\\MasterServiceDemo\\MasterServiceDemo.csproj",
       "packagesPath": "C:\\Users\\Hied\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\MasterServiceDemo\\MasterServiceDemo\\obj\\",
+      "outputPath": "C:\\Users\\Hied\\Desktop\\ProjectDevelopment\\GRPC\\masterServiceDemo\\MasterServiceDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hied\\AppData\\Roaming\\NuGet\\NuGet.Config",
