@@ -30,7 +30,7 @@ jobs:
         run: dotnet build MasterServiceDemo/MasterServiceDemo/MasterServiceDemo.csproj -c Release --no-restore
 
       - name : Test app
-        run : dotnet test MasterServiceDemo/MasterServiceDemoTest/MasterServiceDemoTest.csproj -c Release --no-build
+        run : dotnet test MasterServiceDemo/MasterServiceDemoTest/MasterServiceDemoTest.csproj -c Release
 
 
 
